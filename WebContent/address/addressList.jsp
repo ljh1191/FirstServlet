@@ -41,7 +41,7 @@ $(function (){
 <body>
 <div id = "area">
 	<h2>전체보기</h2> <br>
-	<div id = "count">총게시물 수 : ${count}</div>
+	<div id = "count">게시물 수 : ${count}</div>
 	<table border="2">
 		<tr>
 			<th>이름</th>
